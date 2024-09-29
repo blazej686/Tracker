@@ -5,11 +5,14 @@
 <template>
   <div class="home flex-grow-1 d-flex flex-column align-items-center justify-content-center">
     <div class="home-card p-5 card align-items-center shadow rounded elevation-3">
-      <img src="" alt="" class="rounded-circle">
+      <img src="/src/assets/img/Tracker Logo.png" alt="Tracker Logo" class="rounded-circle">
       <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
-        Vue
+        Welcome to Tracker
       </h1>
+      <h3>A place where you can track where you have been</h3>
+
     </div>
+
   </div>
 </template>
 
